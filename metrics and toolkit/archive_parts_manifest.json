@@ -1,0 +1,107 @@
+[
+  {
+    "archive": "Meta_Homes_22_GLB.zip",
+    "parts": [
+      {
+        "name": "Meta_Homes_22_GLB.zip.part01",
+        "size": 419430400,
+        "sha256": "f14d07046b250e88c17fcd555e53f96440e1820e4bb3e25d6bbb38a291b7726a"
+      },
+      {
+        "name": "Meta_Homes_22_GLB.zip.part02",
+        "size": 419430400,
+        "sha256": "e7ff5323a226eda0fddce1fb1686c1e3ed8d931839e6e24ed86f0b47793c2afc"
+      },
+      {
+        "name": "Meta_Homes_22_GLB.zip.part03",
+        "size": 419430400,
+        "sha256": "5f69cb723811bc8e032f949b3b3ca07c9f2098a748163948daa8d064246fbdcb"
+      },
+      {
+        "name": "Meta_Homes_22_GLB.zip.part04",
+        "size": 419430400,
+        "sha256": "74e07d4335ab5ef4e83da9ab7c20f5146309ef39586c9a8a47037f74df1bb238"
+      },
+      {
+        "name": "Meta_Homes_22_GLB.zip.part05",
+        "size": 419430400,
+        "sha256": "9498313efb92b384bcd29142ece780b5679a41ee1ad37a11684ba3c5c85ccc91"
+      },
+      {
+        "name": "Meta_Homes_22_GLB.zip.part06",
+        "size": 419430400,
+        "sha256": "6537a3f42b04095714416455c9e02b388734c0e9ad565265753dba26a2e60281"
+      },
+      {
+        "name": "Meta_Homes_22_GLB.zip.part07",
+        "size": 419430400,
+        "sha256": "b2f424e438fe6aa5aeb5d6de3200d73fad6201c6ae58b086a736cc3ea5474a90"
+      },
+      {
+        "name": "Meta_Homes_22_GLB.zip.part08",
+        "size": 419430400,
+        "sha256": "0156eed56ea6db410edd66245da969f4b84ffbe974ebd3f8f6573c4f425d431b"
+      },
+      {
+        "name": "Meta_Homes_22_GLB.zip.part09",
+        "size": 419430400,
+        "sha256": "6db1a559b72ebfa045affd271285005e91852e7025293885890b104e014e901f"
+      },
+      {
+        "name": "Meta_Homes_22_GLB.zip.part10",
+        "size": 398830335,
+        "sha256": "52130f0b84256354112b0d3c7ca152bf5dd0dc5bf44674b0d2b2a25048647e5e"
+      }
+    ]
+  },
+  {
+    "archive": "Meta_Homes_Source_Scenes.zip",
+    "parts": [
+      {
+        "name": "Meta_Homes_Source_Scenes.zip.part01",
+        "size": 419430400,
+        "sha256": "31a40733c39903b6107bcef9408d9e5b993ffd667f65ff79fa69221b677a26bf"
+      },
+      {
+        "name": "Meta_Homes_Source_Scenes.zip.part02",
+        "size": 419430400,
+        "sha256": "0eb13e791b22213b42e15516051ca914c337a5f3619a728f9ace105fdf2f13eb"
+      },
+      {
+        "name": "Meta_Homes_Source_Scenes.zip.part03",
+        "size": 419430400,
+        "sha256": "56b5b9ac88973dd0de815171c37bb69c329415c861645b477051420c698df7f0"
+      },
+      {
+        "name": "Meta_Homes_Source_Scenes.zip.part04",
+        "size": 419430400,
+        "sha256": "fe87b1c920c161dccd053e755c5a1d4822fdc19d0318a7976fdbab1ef6f2aeef"
+      },
+      {
+        "name": "Meta_Homes_Source_Scenes.zip.part05",
+        "size": 419430400,
+        "sha256": "f2567863dd6f1763e7531b6eca3c341c59f95c728d3671342cf3f3ba574bc3fb"
+      },
+      {
+        "name": "Meta_Homes_Source_Scenes.zip.part06",
+        "size": 419430400,
+        "sha256": "90894726ef5d60b0c5c61fb2903a17a2cd7683c9600f7db267b5272f9f9c369c"
+      },
+      {
+        "name": "Meta_Homes_Source_Scenes.zip.part07",
+        "size": 419430400,
+        "sha256": "7f98629478fa8e11ba1cbe61b7572dfeb3fc28ac5cb9f4da933d48ec5972034c"
+      },
+      {
+        "name": "Meta_Homes_Source_Scenes.zip.part08",
+        "size": 419430400,
+        "sha256": "2b4b84072b86cd46eb2976e0460b4198e83fd1f2b3d7d8c71a6c7669b50937ae"
+      },
+      {
+        "name": "Meta_Homes_Source_Scenes.zip.part09",
+        "size": 10339223,
+        "sha256": "620825f44c86f7e1fad0a7d0b9ffd29428e9c2b7519128a552df79a8ce3f52e7"
+      }
+    ]
+  }
+]

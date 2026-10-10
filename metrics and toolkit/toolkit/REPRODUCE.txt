@@ -1,0 +1,10 @@
+Use Python 3 and g++ on Linux. Work from a directory containing build/, editor/ and astc/.
+Clone https://github.com/nikitat21/Quest-Home-Editor.git as editor and check out fd95db7415fbf63032961db8df07dc5f01207831.
+Clone https://github.com/ARM-software/astc-encoder.git as astc and check out tag 4.8.0.
+Apply ../extractor_fixes.patch within editor.
+Copy extract.cpp, compile.py, run_extract.py, dedup.py and package.py into build/.
+Copy Official-Home-Library-Root-Catalog.json to the working directory.
+Create corpus/apks and deliverables.
+Download the catalog's assetName entries from https://github.com/nikitat21/Quest-Home-Switcher/releases/download/homes-v2.0.0/ and verify apkSha256 before use.
+Run python build/compile.py; python build/run_extract.py; python build/dedup.py; python build/package.py.
+The original upstream licenses apply to all imported code and assets. Our driver requires the upstream source trees; they are not duplicated in this toolkit.
