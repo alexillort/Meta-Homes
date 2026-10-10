@@ -1,0 +1,69 @@
+home,id,package,status,meshes,vertices,triangles,materials,images,apk_sha256,source_scene_sha256,bounds_min,bounds_max,animation_export,historical_original,unique_png_files,glb_bytes,glb_sha256,load_report,texture_max_dimension,texture_resampling
+Abstraction,abstraction,com.meta.environment.prod.abstraction,extracted_static,56,58702,100552,56,56,cef8ef2aeaee00fc6e0f10de3434ec882b955537fc2c2d2ffcad8b65d5d6e6a8,b0edcfc362301f2942f51dd13684c55db99da84ae6f4714a9a4f5f80405211fd,"[-100000.1592, -100000.2595, -100000.0823]","[100001.2519, 100001.0405, 100000.4309]",not_converted; preserved in source_scene.zip,False,10,36508344,13fb093256c1170dbec0c369c5b73d4e9044cc2a00d77421168cad8445cc3df8,"[LOAD REPORT] 56 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 56 meshes
+",,
+Blue Hill Gold Mine,blue-hill-gold-mine,com.meta.environment.prod.bluehillgoldmine,extracted_static,175,458625,675264,175,175,70e05eb3c7c2d35dfd33eb0da089ac0e07409ed64d7b63f2b9e7c0599c99f058,9632d8c60f26ec3456c1842fb7130947a3d4a631b06fbb3ec474f4206420012c,"[-100000.50381, -100000.48616, -100000.46044]","[100001.46771, 100001.173427, 100000.4972]",not_converted; preserved in source_scene.zip,False,167,344113968,a0329e3acd8a728f2829ab633855781feef48f2e6795a7ceecf20158ccf5f09c,"[LOAD REPORT] 175 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 175 meshes
+",,
+Bubbles,bubbles,com.oculus.environment.prod.bubbles,extracted_static,45,32559,55776,45,45,d71e8fa13a496875b78d17ca02e1bc6fe748c1c869936965babe8334e63ba3cb,6e25066b74e5b2865dd7793ae1461788643113f01a931ee076424802e06557cb,"[-100000.3033, -100000.4848, -100000.43784]","[100001.47741, 100001.227671, 100000.49195]",not_converted; preserved in source_scene.zip,False,45,3642988,ade384ee8af9e8be696fb6be5023416ec77f0e1c7139c1417ca75fda62d70d0c,"[LOAD REPORT] 45 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 45 meshes
+",,
+Cascadia,cascadia,com.meta.environment.prod.vista,extracted_static,182,160576,355529,182,182,dc731e0e88fa1bb6d1dc2c0729313df927b85d89e9f337b5d2070bb58928580b,6df45a01d498160a80c5dd5e2c586efd103fe73b9422dabc0ab4b796bf72dcef,"[-100000.411919, -100000.47384, -100000.4903]","[100001.503281, 100001.499698, 100000.47943]",not_converted; preserved in source_scene.zip,False,182,229439244,a354c7dab054183227a8fc0cce766f06fae669c8641911de08366d853f0b42f4,"[LOAD REPORT] 182 meshes loaded; 1 distinct skipped/undecoded element(s):
+   - NOT RENDERED — classified UI/gizmo: ChairIcon
+Loaded 182 meshes
+",,
+Classic Home,classic-home,com.oculus.environment.prod.rifthome,extracted_static,25,126769,104942,25,25,422f290e0ad236c3ca9516f38659d0c2098e85025289b876e36a1f9fa525e6e7,ce903e797dd904f899650eaa16ac42a5c15c663c7fac3fd2212ed938af0b3cfe,"[-100000.01535, -100000.151, -100000.02010499999]","[100001.28465, 100001.463713, 100000.18935]",not_converted; preserved in source_scene.zip,False,19,105021360,322c42e365363c3aaef1ee22a9d435aaae52607a60adf2d7f549092a85325f60,"[LOAD REPORT] 25 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 25 meshes
+",,
+Crystal Atrium,crystal-atrium,com.meta.environment.prod.monolith,extracted_static,46,321597,312029,46,46,138487328b70a65188caccb1e6c5b3f9da6c7decc5d2f1476e35e7f5d33b8eb7,2921a5dca584d2588a54edc207366b80defc1e3ec5436bad54a8dbb04aa8d302,"[-100000.3024, -100000.421013, -100000.37141]","[100001.455147, 100001.332838, 100000.39136]",not_converted; preserved in source_scene.zip,False,43,264324340,9965c2db35918d899669e69104fdeb0384fd5b7401acdac1cf92ee4efbf69979,"[LOAD REPORT] 46 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 46 meshes
+",,
+Cyber City,cyber-city,com.oculus.environment.prod.cyberhome,extracted_static,32,353832,584044,32,32,e2208c8fe160e759ee60f02571bf544c2e499228608a9c665214e54e017d991b,7670d0549c9ee65adf8ba0ea85250e81a16a5c4c4f37246aea0f4724196c2325,"[-100000.23715, -100000.298, -100000.44178]","[100001.464, 100001.04023, 100000.47345]",not_converted; preserved in source_scene.zip,False,25,145110868,e20bbf00275c24ac2dad5d9ffa19951ea6ff24846e5935191baa7b81bf920d2c,"[LOAD REPORT] 32 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 32 meshes
+",,
+Desert Terrace,desert-terrace,com.environment.oculusoriginaldesert,extracted_static,41,248417,388700,41,41,4de1b1544f7b2069923455adb77af542c5b227da796d18ebffc05a30441e7e17,70a0bcd0c48c4443c3c177c20534bd4af256ecb17e98fb03caa76f7f373cad13,"[-100000.438, -100000.4419, -100000.4881]","[100001.047, 100001.49211, 100000.44236]",not_converted; preserved in source_scene.zip,False,41,137922536,6329d87d8de2c964e2cae8af21a1f541ab3fc4fcc0b21f2cbf38791639a037a8,"[LOAD REPORT] 41 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 41 meshes
+",,
+Futurescape,futurescape,com.meta.environment.prod.futurescape,extracted_static,85,281090,542405,85,85,3e115687bc7156de645e31dff35d0633fc93a4140c856fb18c38c2fb8d54c38f,a51efefb1627acb665efd2581c82299922f7c2cb666358ef3b77d5b1ceaba51d,"[-100000.46568, -100000.46079, -100000.03493]","[100001.4751, 100001.392685, 100000.49338]",not_converted; preserved in source_scene.zip,False,54,180598796,73b7506ded7f817b4c70e96ac67dc77174b8a9992de1d151f42218d7a6fdea16,"[LOAD REPORT] 85 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 85 meshes
+",,
+Lakeside Peak,lakeside-peak,com.meta.environment.prod.lakesidepeak,extracted_static,164,323636,454241,164,164,5cd270601bb48be99bf1d42c61374ab5354e8602d272c12e8f95e716751dc746,36c1735b4178d0a47467afe12c0a1e58ad600435bd01554f05769ed4f5cbe5b8,"[-100000.3537, -100000.49988, -100000.36115]","[100001.47724, 100001.305314, 100000.49066]",not_converted; preserved in source_scene.zip,False,126,878915848,c45e19c708f17635caae0958c367992a967551f9fee3913dee092a44dd825d19,"[LOAD REPORT] 164 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 164 meshes
+",,
+Meta Horizon Terrace,meta-horizon-terrace,com.meta.environment.prod.stinson.launchpad,extracted_static,247,275458,520347,247,247,6481644066d45cb7d6e7878e0fa9d073944fcaecd971b65b3e41769096c312e1,b032585374bb171505c9ad740857c583b6e56aeaa2ceab97cb70a3d7a2b305b0,"[-100000.495, -100000.441, -100000.49002]","[100001.4209, 100001.052, 100000.477]",not_converted; preserved in source_scene.zip,False,170,500722832,4a20115ce34eb09298d845de7e7880740febe44b2a65770609025494066ff111,"[LOAD REPORT] 247 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 247 meshes
+",,
+Mogu Hall,mogu-hall,com.oculus.environment.prod.japan,extracted_static,41,204676,210479,41,41,a67676d37ec45531ecddcc0774f3484639a08afb67db07b42d07f62b3da38e40,c765f115b97ee5032255b36e7956aeecbc85d751b5f0cfaf37051ecbb275a5c3,"[-100000.438, -100000.47912, -100000.18507]","[100001.407, 100001.30041, 100000.3826]",not_converted; preserved in source_scene.zip,False,41,131553524,85749d59f790d73dd5dffce2f7b293facedad4cad3c27b12724e7911620d87f7,"[LOAD REPORT] 41 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 41 meshes
+",,
+Mountain Study,mountain-study,com.oculus.environment.prod.personaloffice02,extracted_static,21,135745,225018,21,21,797fad92848b89db77ea021abf76ff34754bc60ad981b6b0671faa666ebebfa3,bbd6b2f48a313493d41cf4e1205bc4096bfb11cc6293a66784d91077731bd6ab,"[-718.58742, -220.74599999999998, -722.8692599999999]","[724.29758, 724.298, 722.86874]",not_converted; preserved in source_scene.zip,False,18,251773792,f04917ce3ac5e6cb106ad4533085c7687fe9bbc8da97eae57f0e101c0361506b,"[LOAD REPORT] 21 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 21 meshes
+",,
+Oceanarium,oceanarium,com.meta.environment.prod.underwater,extracted_static,676,829248,1643555,676,676,47dde88e1aaf76df3e277a69b1bddfcf199446aca72d51d4367850c070516f2f,e1c74ba48f793341d9971acafff52f4ffb87538928d32db908ffed4c2dd07b23,"[-100000.26497, -100000.3715, -100000.04000000001]","[100001.3983, 100001.0418, 100000.428]",not_converted; preserved in source_scene.zip,False,414,123676808,7b88a9a4b4e5187aaf43c03b134504240a9e4753ce8fadda6f454369d9833920,"[LOAD REPORT] 676 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 676 meshes
+",1024,nearest; originals retained in source_scene.zip
+Paradiso,paradiso,com.meta.environment.prod.treehouse,extracted_static,69,75566,175246,69,69,073a1eea4e9862816843b0b4b1fabc6a86bc2797c3f94d6199845773cb0c93f9,72b7108e41283093afd7e599e305a8ddd3e27f15c7b81d0c41737f2512685df7,"[-100000.44609, -100000.45627, -100000.12043]","[100001.45135, 100001.04508000001, 100000.48739]",not_converted; preserved in source_scene.zip,False,65,151315872,c25cd05cea733e48e89413071c0f65fec99baa03073d1b6f25f8c7022e74d982,"[LOAD REPORT] 69 meshes loaded; 1 distinct skipped/undecoded element(s):
+   - NOT RENDERED — classified UI/gizmo: ChairIcon
+Loaded 69 meshes
+",,
+Polar Village,polar-village,com.meta.environment.prod.polarvillage,extracted_static,158,289264,549111,158,158,d787679f1cabd55504f3d88946d35aa04284179ebd2d15e5055642b2e5b5347d,59baafe65b9add923f10ee3c529cfdfd131ec2814d36c48a0833593756edc454,"[-100000.461614, -100000.49499, -100000.481865]","[100001.47765, 100001.453013, 100000.4318]",not_converted; preserved in source_scene.zip,False,158,204019936,4b06e88f7a9e9b913e4be5fde63bd5e69ec3545192dd1ead1cf131b6a53b913c,"[LOAD REPORT] 158 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 158 meshes
+",,
+Quest Dome,quest-dome,com.oculus.environment.prod.dome,extracted_static,25,260351,251308,25,25,f3cd311ed61df4a430ea8f76a7238258939f9b79dfc166f225e634ed479d42e4,32174e3984c1f51c41f3afac24cd3fbc237f8dd41acc60107e5eac3ec715049a,"[-100000.297, -100000.45, -100000.44204]","[100001.26, 100001.487076, 100000.37]",not_converted; preserved in source_scene.zip,False,14,58319968,fc1a9e17fa1a938ecdcf94673f3ce8dae39ededa09e121aa9314308c0a5dbec4,"[LOAD REPORT] 25 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 25 meshes
+",,
+Rockquarry,rockquarry,com.meta.environment.prod.rockquarry,extracted_static,98,58507,138090,98,98,dfcdc6a9d26c569def0249c4b54aa0e25f53690ed8e59e1e042f26a8a5483bbf,a1f43f21c39223748b9f9c388b35b9551788330351030f0b25a907a7a9cd42db,"[-299.55740000000003, -99.07390000000001, -258.4645]","[163.1746, 244.049, 127.38856999999999]",not_converted; preserved in source_scene.zip,False,98,170146552,45139969888af87514d90b0cc16d0b9db425a7ec72872ddfa55a8025739c3861,"[LOAD REPORT] 98 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 98 meshes
+",,
+Space Station,space-station,com.environment.spacestation,extracted_static,28,259552,376181,28,28,e1ce35372118229b14afb1c37a46dd91312dfd1b2a29a3dae8c8909aaa1f9360,2ea4bde1df92af9acae5a6789520ce5a20cd547e14510bdbfb606873d99f9371,"[-100000.112905, -100000.421, -100000.07578]","[100001.35332, 100001.04237000001, 100000.02422]",not_converted; preserved in source_scene.zip,False,18,79664880,ce0cee1b542c8def64d69215ff7302238d6326e65cdc6d87cdf526a8419f4285,"[LOAD REPORT] 28 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 28 meshes
+",,
+Storybook,storybook,com.meta.environment.prod.storybook,extracted_static,768,451965,850670,768,768,78b56689b636ac0126d84b6f3aeab383747bd52ad09b2027d6984762ac9cddc7,a1c891564fcf8fa655aa19cf7172cb9873ff856d9ef51c765f588923a5bb3db9,"[-100000.49051, -100000.481453, -100000.50125]","[100001.497, 100001.497692, 100000.49221]",not_converted; preserved in source_scene.zip,False,543,75534096,f4b62bae4ee4f52e7df699b895c263ea19efcba2e561be3e929e8e60fec44c87,"[LOAD REPORT] 768 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 768 meshes
+",1024,nearest; originals retained in source_scene.zip
+Studio,studio,com.oculus.environment.prod.personaloffice01,extracted_static,21,241137,420067,21,21,5f9a5d7a1b335fe6b2ac515628abbeacef80a406c7e3d753f3d6c76f53a9facf,34799496ddeee522dad5744831ade21c808ebc7db517c0bb31aa682b3c622dcd,"[-64.08313, -9.991799999999998, -79.95519999999999]","[63.084531000000005, 97.572, 87.861463]",not_converted; preserved in source_scene.zip,False,21,241929052,18124f6578e857aec30cc4cf60930e9b4890584559dbc7c1d7b4617955db30f1,"[LOAD REPORT] 21 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 21 meshes
+",,
+Winter Lodge,winter-lodge,com.environment.winterloft,extracted_static,21,242087,315596,21,21,801c8f250461d5a7521122ce052118482f497fcc00ee53a382fe433f40873c0d,0cba2d46bb7cd0c642c8d18a785a3fd09e036d5f2021a4a6aeca369add4696ba,"[-9567.779999999999, -3412.3, -14373.039999999999]","[1653.991, 1025.16366, 2166.842]",not_converted; preserved in source_scene.zip,False,12,110387916,f971f7604ec3d019c17d1ea596270680df722d6596c657976cd626a56862b3af,"[LOAD REPORT] 21 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)
+Loaded 21 meshes
+",,

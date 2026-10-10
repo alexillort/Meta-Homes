@@ -1,0 +1,644 @@
+[
+  {
+    "home": "Abstraction",
+    "id": "abstraction",
+    "package": "com.meta.environment.prod.abstraction",
+    "status": "extracted_static",
+    "meshes": 56,
+    "vertices": 58702,
+    "triangles": 100552,
+    "materials": 56,
+    "images": 56,
+    "apk_sha256": "cef8ef2aeaee00fc6e0f10de3434ec882b955537fc2c2d2ffcad8b65d5d6e6a8",
+    "source_scene_sha256": "b0edcfc362301f2942f51dd13684c55db99da84ae6f4714a9a4f5f80405211fd",
+    "bounds_min": [
+      -100000.1592,
+      -100000.2595,
+      -100000.0823
+    ],
+    "bounds_max": [
+      100001.2519,
+      100001.0405,
+      100000.4309
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 10,
+    "glb_bytes": 36508344,
+    "glb_sha256": "13fb093256c1170dbec0c369c5b73d4e9044cc2a00d77421168cad8445cc3df8",
+    "load_report": "[LOAD REPORT] 56 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 56 meshes\n"
+  },
+  {
+    "home": "Blue Hill Gold Mine",
+    "id": "blue-hill-gold-mine",
+    "package": "com.meta.environment.prod.bluehillgoldmine",
+    "status": "extracted_static",
+    "meshes": 175,
+    "vertices": 458625,
+    "triangles": 675264,
+    "materials": 175,
+    "images": 175,
+    "apk_sha256": "70e05eb3c7c2d35dfd33eb0da089ac0e07409ed64d7b63f2b9e7c0599c99f058",
+    "source_scene_sha256": "9632d8c60f26ec3456c1842fb7130947a3d4a631b06fbb3ec474f4206420012c",
+    "bounds_min": [
+      -100000.50381,
+      -100000.48616,
+      -100000.46044
+    ],
+    "bounds_max": [
+      100001.46771,
+      100001.173427,
+      100000.4972
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 167,
+    "glb_bytes": 344113968,
+    "glb_sha256": "a0329e3acd8a728f2829ab633855781feef48f2e6795a7ceecf20158ccf5f09c",
+    "load_report": "[LOAD REPORT] 175 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 175 meshes\n"
+  },
+  {
+    "home": "Bubbles",
+    "id": "bubbles",
+    "package": "com.oculus.environment.prod.bubbles",
+    "status": "extracted_static",
+    "meshes": 45,
+    "vertices": 32559,
+    "triangles": 55776,
+    "materials": 45,
+    "images": 45,
+    "apk_sha256": "d71e8fa13a496875b78d17ca02e1bc6fe748c1c869936965babe8334e63ba3cb",
+    "source_scene_sha256": "6e25066b74e5b2865dd7793ae1461788643113f01a931ee076424802e06557cb",
+    "bounds_min": [
+      -100000.3033,
+      -100000.4848,
+      -100000.43784
+    ],
+    "bounds_max": [
+      100001.47741,
+      100001.227671,
+      100000.49195
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 45,
+    "glb_bytes": 3642988,
+    "glb_sha256": "ade384ee8af9e8be696fb6be5023416ec77f0e1c7139c1417ca75fda62d70d0c",
+    "load_report": "[LOAD REPORT] 45 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 45 meshes\n"
+  },
+  {
+    "home": "Cascadia",
+    "id": "cascadia",
+    "package": "com.meta.environment.prod.vista",
+    "status": "extracted_static",
+    "meshes": 182,
+    "vertices": 160576,
+    "triangles": 355529,
+    "materials": 182,
+    "images": 182,
+    "apk_sha256": "dc731e0e88fa1bb6d1dc2c0729313df927b85d89e9f337b5d2070bb58928580b",
+    "source_scene_sha256": "6df45a01d498160a80c5dd5e2c586efd103fe73b9422dabc0ab4b796bf72dcef",
+    "bounds_min": [
+      -100000.411919,
+      -100000.47384,
+      -100000.4903
+    ],
+    "bounds_max": [
+      100001.503281,
+      100001.499698,
+      100000.47943
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 182,
+    "glb_bytes": 229439244,
+    "glb_sha256": "a354c7dab054183227a8fc0cce766f06fae669c8641911de08366d853f0b42f4",
+    "load_report": "[LOAD REPORT] 182 meshes loaded; 1 distinct skipped/undecoded element(s):\n   - NOT RENDERED \u2014 classified UI/gizmo: ChairIcon\nLoaded 182 meshes\n"
+  },
+  {
+    "home": "Classic Home",
+    "id": "classic-home",
+    "package": "com.oculus.environment.prod.rifthome",
+    "status": "extracted_static",
+    "meshes": 25,
+    "vertices": 126769,
+    "triangles": 104942,
+    "materials": 25,
+    "images": 25,
+    "apk_sha256": "422f290e0ad236c3ca9516f38659d0c2098e85025289b876e36a1f9fa525e6e7",
+    "source_scene_sha256": "ce903e797dd904f899650eaa16ac42a5c15c663c7fac3fd2212ed938af0b3cfe",
+    "bounds_min": [
+      -100000.01535,
+      -100000.151,
+      -100000.02010499999
+    ],
+    "bounds_max": [
+      100001.28465,
+      100001.463713,
+      100000.18935
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 19,
+    "glb_bytes": 105021360,
+    "glb_sha256": "322c42e365363c3aaef1ee22a9d435aaae52607a60adf2d7f549092a85325f60",
+    "load_report": "[LOAD REPORT] 25 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 25 meshes\n"
+  },
+  {
+    "home": "Crystal Atrium",
+    "id": "crystal-atrium",
+    "package": "com.meta.environment.prod.monolith",
+    "status": "extracted_static",
+    "meshes": 46,
+    "vertices": 321597,
+    "triangles": 312029,
+    "materials": 46,
+    "images": 46,
+    "apk_sha256": "138487328b70a65188caccb1e6c5b3f9da6c7decc5d2f1476e35e7f5d33b8eb7",
+    "source_scene_sha256": "2921a5dca584d2588a54edc207366b80defc1e3ec5436bad54a8dbb04aa8d302",
+    "bounds_min": [
+      -100000.3024,
+      -100000.421013,
+      -100000.37141
+    ],
+    "bounds_max": [
+      100001.455147,
+      100001.332838,
+      100000.39136
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 43,
+    "glb_bytes": 264324340,
+    "glb_sha256": "9965c2db35918d899669e69104fdeb0384fd5b7401acdac1cf92ee4efbf69979",
+    "load_report": "[LOAD REPORT] 46 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 46 meshes\n"
+  },
+  {
+    "home": "Cyber City",
+    "id": "cyber-city",
+    "package": "com.oculus.environment.prod.cyberhome",
+    "status": "extracted_static",
+    "meshes": 32,
+    "vertices": 353832,
+    "triangles": 584044,
+    "materials": 32,
+    "images": 32,
+    "apk_sha256": "e2208c8fe160e759ee60f02571bf544c2e499228608a9c665214e54e017d991b",
+    "source_scene_sha256": "7670d0549c9ee65adf8ba0ea85250e81a16a5c4c4f37246aea0f4724196c2325",
+    "bounds_min": [
+      -100000.23715,
+      -100000.298,
+      -100000.44178
+    ],
+    "bounds_max": [
+      100001.464,
+      100001.04023,
+      100000.47345
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 25,
+    "glb_bytes": 145110868,
+    "glb_sha256": "e20bbf00275c24ac2dad5d9ffa19951ea6ff24846e5935191baa7b81bf920d2c",
+    "load_report": "[LOAD REPORT] 32 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 32 meshes\n"
+  },
+  {
+    "home": "Desert Terrace",
+    "id": "desert-terrace",
+    "package": "com.environment.oculusoriginaldesert",
+    "status": "extracted_static",
+    "meshes": 41,
+    "vertices": 248417,
+    "triangles": 388700,
+    "materials": 41,
+    "images": 41,
+    "apk_sha256": "4de1b1544f7b2069923455adb77af542c5b227da796d18ebffc05a30441e7e17",
+    "source_scene_sha256": "70a0bcd0c48c4443c3c177c20534bd4af256ecb17e98fb03caa76f7f373cad13",
+    "bounds_min": [
+      -100000.438,
+      -100000.4419,
+      -100000.4881
+    ],
+    "bounds_max": [
+      100001.047,
+      100001.49211,
+      100000.44236
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 41,
+    "glb_bytes": 137922536,
+    "glb_sha256": "6329d87d8de2c964e2cae8af21a1f541ab3fc4fcc0b21f2cbf38791639a037a8",
+    "load_report": "[LOAD REPORT] 41 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 41 meshes\n"
+  },
+  {
+    "home": "Futurescape",
+    "id": "futurescape",
+    "package": "com.meta.environment.prod.futurescape",
+    "status": "extracted_static",
+    "meshes": 85,
+    "vertices": 281090,
+    "triangles": 542405,
+    "materials": 85,
+    "images": 85,
+    "apk_sha256": "3e115687bc7156de645e31dff35d0633fc93a4140c856fb18c38c2fb8d54c38f",
+    "source_scene_sha256": "a51efefb1627acb665efd2581c82299922f7c2cb666358ef3b77d5b1ceaba51d",
+    "bounds_min": [
+      -100000.46568,
+      -100000.46079,
+      -100000.03493
+    ],
+    "bounds_max": [
+      100001.4751,
+      100001.392685,
+      100000.49338
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 54,
+    "glb_bytes": 180598796,
+    "glb_sha256": "73b7506ded7f817b4c70e96ac67dc77174b8a9992de1d151f42218d7a6fdea16",
+    "load_report": "[LOAD REPORT] 85 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 85 meshes\n"
+  },
+  {
+    "home": "Lakeside Peak",
+    "id": "lakeside-peak",
+    "package": "com.meta.environment.prod.lakesidepeak",
+    "status": "extracted_static",
+    "meshes": 164,
+    "vertices": 323636,
+    "triangles": 454241,
+    "materials": 164,
+    "images": 164,
+    "apk_sha256": "5cd270601bb48be99bf1d42c61374ab5354e8602d272c12e8f95e716751dc746",
+    "source_scene_sha256": "36c1735b4178d0a47467afe12c0a1e58ad600435bd01554f05769ed4f5cbe5b8",
+    "bounds_min": [
+      -100000.3537,
+      -100000.49988,
+      -100000.36115
+    ],
+    "bounds_max": [
+      100001.47724,
+      100001.305314,
+      100000.49066
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 126,
+    "glb_bytes": 878915848,
+    "glb_sha256": "c45e19c708f17635caae0958c367992a967551f9fee3913dee092a44dd825d19",
+    "load_report": "[LOAD REPORT] 164 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 164 meshes\n"
+  },
+  {
+    "home": "Meta Horizon Terrace",
+    "id": "meta-horizon-terrace",
+    "package": "com.meta.environment.prod.stinson.launchpad",
+    "status": "extracted_static",
+    "meshes": 247,
+    "vertices": 275458,
+    "triangles": 520347,
+    "materials": 247,
+    "images": 247,
+    "apk_sha256": "6481644066d45cb7d6e7878e0fa9d073944fcaecd971b65b3e41769096c312e1",
+    "source_scene_sha256": "b032585374bb171505c9ad740857c583b6e56aeaa2ceab97cb70a3d7a2b305b0",
+    "bounds_min": [
+      -100000.495,
+      -100000.441,
+      -100000.49002
+    ],
+    "bounds_max": [
+      100001.4209,
+      100001.052,
+      100000.477
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 170,
+    "glb_bytes": 500722832,
+    "glb_sha256": "4a20115ce34eb09298d845de7e7880740febe44b2a65770609025494066ff111",
+    "load_report": "[LOAD REPORT] 247 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 247 meshes\n"
+  },
+  {
+    "home": "Mogu Hall",
+    "id": "mogu-hall",
+    "package": "com.oculus.environment.prod.japan",
+    "status": "extracted_static",
+    "meshes": 41,
+    "vertices": 204676,
+    "triangles": 210479,
+    "materials": 41,
+    "images": 41,
+    "apk_sha256": "a67676d37ec45531ecddcc0774f3484639a08afb67db07b42d07f62b3da38e40",
+    "source_scene_sha256": "c765f115b97ee5032255b36e7956aeecbc85d751b5f0cfaf37051ecbb275a5c3",
+    "bounds_min": [
+      -100000.438,
+      -100000.47912,
+      -100000.18507
+    ],
+    "bounds_max": [
+      100001.407,
+      100001.30041,
+      100000.3826
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 41,
+    "glb_bytes": 131553524,
+    "glb_sha256": "85749d59f790d73dd5dffce2f7b293facedad4cad3c27b12724e7911620d87f7",
+    "load_report": "[LOAD REPORT] 41 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 41 meshes\n"
+  },
+  {
+    "home": "Mountain Study",
+    "id": "mountain-study",
+    "package": "com.oculus.environment.prod.personaloffice02",
+    "status": "extracted_static",
+    "meshes": 21,
+    "vertices": 135745,
+    "triangles": 225018,
+    "materials": 21,
+    "images": 21,
+    "apk_sha256": "797fad92848b89db77ea021abf76ff34754bc60ad981b6b0671faa666ebebfa3",
+    "source_scene_sha256": "bbd6b2f48a313493d41cf4e1205bc4096bfb11cc6293a66784d91077731bd6ab",
+    "bounds_min": [
+      -718.58742,
+      -220.74599999999998,
+      -722.8692599999999
+    ],
+    "bounds_max": [
+      724.29758,
+      724.298,
+      722.86874
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 18,
+    "glb_bytes": 251773792,
+    "glb_sha256": "f04917ce3ac5e6cb106ad4533085c7687fe9bbc8da97eae57f0e101c0361506b",
+    "load_report": "[LOAD REPORT] 21 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 21 meshes\n"
+  },
+  {
+    "home": "Oceanarium",
+    "id": "oceanarium",
+    "package": "com.meta.environment.prod.underwater",
+    "status": "extracted_static",
+    "meshes": 676,
+    "vertices": 829248,
+    "triangles": 1643555,
+    "materials": 676,
+    "images": 676,
+    "apk_sha256": "47dde88e1aaf76df3e277a69b1bddfcf199446aca72d51d4367850c070516f2f",
+    "source_scene_sha256": "e1c74ba48f793341d9971acafff52f4ffb87538928d32db908ffed4c2dd07b23",
+    "bounds_min": [
+      -100000.26497,
+      -100000.3715,
+      -100000.04000000001
+    ],
+    "bounds_max": [
+      100001.3983,
+      100001.0418,
+      100000.428
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "texture_max_dimension": 1024,
+    "texture_resampling": "nearest; originals retained in source_scene.zip",
+    "unique_png_files": 414,
+    "glb_bytes": 123676808,
+    "glb_sha256": "7b88a9a4b4e5187aaf43c03b134504240a9e4753ce8fadda6f454369d9833920",
+    "load_report": "[LOAD REPORT] 676 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 676 meshes\n"
+  },
+  {
+    "home": "Paradiso",
+    "id": "paradiso",
+    "package": "com.meta.environment.prod.treehouse",
+    "status": "extracted_static",
+    "meshes": 69,
+    "vertices": 75566,
+    "triangles": 175246,
+    "materials": 69,
+    "images": 69,
+    "apk_sha256": "073a1eea4e9862816843b0b4b1fabc6a86bc2797c3f94d6199845773cb0c93f9",
+    "source_scene_sha256": "72b7108e41283093afd7e599e305a8ddd3e27f15c7b81d0c41737f2512685df7",
+    "bounds_min": [
+      -100000.44609,
+      -100000.45627,
+      -100000.12043
+    ],
+    "bounds_max": [
+      100001.45135,
+      100001.04508000001,
+      100000.48739
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 65,
+    "glb_bytes": 151315872,
+    "glb_sha256": "c25cd05cea733e48e89413071c0f65fec99baa03073d1b6f25f8c7022e74d982",
+    "load_report": "[LOAD REPORT] 69 meshes loaded; 1 distinct skipped/undecoded element(s):\n   - NOT RENDERED \u2014 classified UI/gizmo: ChairIcon\nLoaded 69 meshes\n"
+  },
+  {
+    "home": "Polar Village",
+    "id": "polar-village",
+    "package": "com.meta.environment.prod.polarvillage",
+    "status": "extracted_static",
+    "meshes": 158,
+    "vertices": 289264,
+    "triangles": 549111,
+    "materials": 158,
+    "images": 158,
+    "apk_sha256": "d787679f1cabd55504f3d88946d35aa04284179ebd2d15e5055642b2e5b5347d",
+    "source_scene_sha256": "59baafe65b9add923f10ee3c529cfdfd131ec2814d36c48a0833593756edc454",
+    "bounds_min": [
+      -100000.461614,
+      -100000.49499,
+      -100000.481865
+    ],
+    "bounds_max": [
+      100001.47765,
+      100001.453013,
+      100000.4318
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 158,
+    "glb_bytes": 204019936,
+    "glb_sha256": "4b06e88f7a9e9b913e4be5fde63bd5e69ec3545192dd1ead1cf131b6a53b913c",
+    "load_report": "[LOAD REPORT] 158 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 158 meshes\n"
+  },
+  {
+    "home": "Quest Dome",
+    "id": "quest-dome",
+    "package": "com.oculus.environment.prod.dome",
+    "status": "extracted_static",
+    "meshes": 25,
+    "vertices": 260351,
+    "triangles": 251308,
+    "materials": 25,
+    "images": 25,
+    "apk_sha256": "f3cd311ed61df4a430ea8f76a7238258939f9b79dfc166f225e634ed479d42e4",
+    "source_scene_sha256": "32174e3984c1f51c41f3afac24cd3fbc237f8dd41acc60107e5eac3ec715049a",
+    "bounds_min": [
+      -100000.297,
+      -100000.45,
+      -100000.44204
+    ],
+    "bounds_max": [
+      100001.26,
+      100001.487076,
+      100000.37
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 14,
+    "glb_bytes": 58319968,
+    "glb_sha256": "fc1a9e17fa1a938ecdcf94673f3ce8dae39ededa09e121aa9314308c0a5dbec4",
+    "load_report": "[LOAD REPORT] 25 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 25 meshes\n"
+  },
+  {
+    "home": "Rockquarry",
+    "id": "rockquarry",
+    "package": "com.meta.environment.prod.rockquarry",
+    "status": "extracted_static",
+    "meshes": 98,
+    "vertices": 58507,
+    "triangles": 138090,
+    "materials": 98,
+    "images": 98,
+    "apk_sha256": "dfcdc6a9d26c569def0249c4b54aa0e25f53690ed8e59e1e042f26a8a5483bbf",
+    "source_scene_sha256": "a1f43f21c39223748b9f9c388b35b9551788330351030f0b25a907a7a9cd42db",
+    "bounds_min": [
+      -299.55740000000003,
+      -99.07390000000001,
+      -258.4645
+    ],
+    "bounds_max": [
+      163.1746,
+      244.049,
+      127.38856999999999
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 98,
+    "glb_bytes": 170146552,
+    "glb_sha256": "45139969888af87514d90b0cc16d0b9db425a7ec72872ddfa55a8025739c3861",
+    "load_report": "[LOAD REPORT] 98 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 98 meshes\n"
+  },
+  {
+    "home": "Space Station",
+    "id": "space-station",
+    "package": "com.environment.spacestation",
+    "status": "extracted_static",
+    "meshes": 28,
+    "vertices": 259552,
+    "triangles": 376181,
+    "materials": 28,
+    "images": 28,
+    "apk_sha256": "e1ce35372118229b14afb1c37a46dd91312dfd1b2a29a3dae8c8909aaa1f9360",
+    "source_scene_sha256": "2ea4bde1df92af9acae5a6789520ce5a20cd547e14510bdbfb606873d99f9371",
+    "bounds_min": [
+      -100000.112905,
+      -100000.421,
+      -100000.07578
+    ],
+    "bounds_max": [
+      100001.35332,
+      100001.04237000001,
+      100000.02422
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 18,
+    "glb_bytes": 79664880,
+    "glb_sha256": "ce0cee1b542c8def64d69215ff7302238d6326e65cdc6d87cdf526a8419f4285",
+    "load_report": "[LOAD REPORT] 28 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 28 meshes\n"
+  },
+  {
+    "home": "Storybook",
+    "id": "storybook",
+    "package": "com.meta.environment.prod.storybook",
+    "status": "extracted_static",
+    "meshes": 768,
+    "vertices": 451965,
+    "triangles": 850670,
+    "materials": 768,
+    "images": 768,
+    "apk_sha256": "78b56689b636ac0126d84b6f3aeab383747bd52ad09b2027d6984762ac9cddc7",
+    "source_scene_sha256": "a1c891564fcf8fa655aa19cf7172cb9873ff856d9ef51c765f588923a5bb3db9",
+    "bounds_min": [
+      -100000.49051,
+      -100000.481453,
+      -100000.50125
+    ],
+    "bounds_max": [
+      100001.497,
+      100001.497692,
+      100000.49221
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "texture_max_dimension": 1024,
+    "texture_resampling": "nearest; originals retained in source_scene.zip",
+    "unique_png_files": 543,
+    "glb_bytes": 75534096,
+    "glb_sha256": "f4b62bae4ee4f52e7df699b895c263ea19efcba2e561be3e929e8e60fec44c87",
+    "load_report": "[LOAD REPORT] 768 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 768 meshes\n"
+  },
+  {
+    "home": "Studio",
+    "id": "studio",
+    "package": "com.oculus.environment.prod.personaloffice01",
+    "status": "extracted_static",
+    "meshes": 21,
+    "vertices": 241137,
+    "triangles": 420067,
+    "materials": 21,
+    "images": 21,
+    "apk_sha256": "5f9a5d7a1b335fe6b2ac515628abbeacef80a406c7e3d753f3d6c76f53a9facf",
+    "source_scene_sha256": "34799496ddeee522dad5744831ade21c808ebc7db517c0bb31aa682b3c622dcd",
+    "bounds_min": [
+      -64.08313,
+      -9.991799999999998,
+      -79.95519999999999
+    ],
+    "bounds_max": [
+      63.084531000000005,
+      97.572,
+      87.861463
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 21,
+    "glb_bytes": 241929052,
+    "glb_sha256": "18124f6578e857aec30cc4cf60930e9b4890584559dbc7c1d7b4617955db30f1",
+    "load_report": "[LOAD REPORT] 21 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 21 meshes\n"
+  },
+  {
+    "home": "Winter Lodge",
+    "id": "winter-lodge",
+    "package": "com.environment.winterloft",
+    "status": "extracted_static",
+    "meshes": 21,
+    "vertices": 242087,
+    "triangles": 315596,
+    "materials": 21,
+    "images": 21,
+    "apk_sha256": "801c8f250461d5a7521122ce052118482f497fcc00ee53a382fe433f40873c0d",
+    "source_scene_sha256": "0cba2d46bb7cd0c642c8d18a785a3fd09e036d5f2021a4a6aeca369add4696ba",
+    "bounds_min": [
+      -9567.779999999999,
+      -3412.3,
+      -14373.039999999999
+    ],
+    "bounds_max": [
+      1653.991,
+      1025.16366,
+      2166.842
+    ],
+    "animation_export": "not_converted; preserved in source_scene.zip",
+    "historical_original": false,
+    "unique_png_files": 12,
+    "glb_bytes": 110387916,
+    "glb_sha256": "f971f7604ec3d019c17d1ea596270680df722d6596c657976cd626a56862b3af",
+    "load_report": "[LOAD REPORT] 21 meshes loaded; 0 distinct skipped/undecoded element(s)  (all decoded)\nLoaded 21 meshes\n"
+  }
+]
