@@ -1,53 +1,55 @@
-# Meta Quest Homes — 22 entornos para exploración 3D
+# Meta Quest Homes — 22 Environments for 3D Exploration
 
-Colección documentada de **22 entornos Home atribuidos a Meta/Oculus**, extraídos como escenas estáticas **glTF 2.0 / GLB**, con archivos fuente, métricas técnicas y vistas renderizadas del interior y del exterior del modelo.
+A documented collection of **22 Home environments attributed to Meta/Oculus**, extracted as static **glTF 2.0 / GLB** scenes, with source scene archives, technical metrics, and rendered interior and exterior views.
 
-Pensada para inspección en herramientas 3D, análisis de composición espacial y comparación de entornos de realidad virtual.
+Designed for inspection in 3D tools, spatial composition analysis, and comparison of virtual reality environments.
 
-> **Proyecto independiente, sin afiliación con Meta.** La colección corresponde a las 22 entradas del catálogo **Root** de Quest Home Switcher, versión `homes-v2.0.0`. Los paquetes utilizados son adaptaciones comunitarias de contenido atribuido a Meta/Oculus por ese catálogo. No se han verificado como APK históricos originales ni constituyen una lista exhaustiva de todos los Homes publicados por Meta.
+> **Independent project, not affiliated with Meta.** This collection covers the 22 entries in the **Root** catalog of Quest Home Switcher, release `homes-v2.0.0`. The packages used are community-adapted ports of content attributed to Meta/Oculus by that catalog. They have not been verified as historical original APK builds, and this collection is not an exhaustive list of every Home ever released by Meta.
 
-## Galería
+## Gallery
 
-**Izquierda: interior. Derecha: exterior del modelo.** Las imágenes son renders estáticos en Blender de las escenas extraídas, no capturas del visor. En las vistas exteriores se ocultaron fondos envolventes y algunos elementos de fondo para mostrar la geometría principal.
+**Left: interior. Right: model exterior.** These are static Blender renders of the extracted scenes, not headset screenshots. Enclosing backgrounds and selected background elements were hidden in the exterior previews to reveal the main geometry.
+
+The original contact sheets are preserved below. Their Spanish labels mean **Interior**, **Model exterior**, and **Static renders · Blender · enclosing backgrounds hidden in exterior views**.
 
 ### Classic Home · Cyber City · Winter Lodge · Desert Terrace · Space Station · Quest Dome
 
-![Vistas interiores y exteriores de Classic Home, Cyber City, Winter Lodge, Desert Terrace, Space Station y Quest Dome](docs/images/Meta_Homes_Views_01.jpg)
+![Interior and exterior views of Classic Home, Cyber City, Winter Lodge, Desert Terrace, Space Station, and Quest Dome](docs/images/Meta_Homes_Views_01.jpg)
 
 ### Mogu Hall · Crystal Atrium · Mountain Study · Studio · Blue Hill Gold Mine · Cascadia
 
-![Vistas interiores y exteriores de Mogu Hall, Crystal Atrium, Mountain Study, Studio, Blue Hill Gold Mine y Cascadia](docs/images/Meta_Homes_Views_02.jpg)
+![Interior and exterior views of Mogu Hall, Crystal Atrium, Mountain Study, Studio, Blue Hill Gold Mine, and Cascadia](docs/images/Meta_Homes_Views_02.jpg)
 
 ### Futurescape · Lakeside Peak · Oceanarium · Paradiso · Polar Village · Storybook
 
-![Vistas interiores y exteriores de Futurescape, Lakeside Peak, Oceanarium, Paradiso, Polar Village y Storybook](docs/images/Meta_Homes_Views_03.jpg)
+![Interior and exterior views of Futurescape, Lakeside Peak, Oceanarium, Paradiso, Polar Village, and Storybook](docs/images/Meta_Homes_Views_03.jpg)
 
 ### Abstraction · Bubbles · Rockquarry · Meta Horizon Terrace
 
-![Vistas interiores y exteriores de Abstraction, Bubbles, Rockquarry y Meta Horizon Terrace](docs/images/Meta_Homes_Views_04.jpg)
+![Interior and exterior views of Abstraction, Bubbles, Rockquarry, and Meta Horizon Terrace](docs/images/Meta_Homes_Views_04.jpg)
 
-Las cámaras son aproximaciones para inspección. Los materiales, la iluminación y los efectos pueden diferir de la experiencia original. Los renders utilizaron copias con texturas reducidas a un máximo de 512 px; esa reducción de las vistas previas no modifica los GLB distribuidos. Algunas caras exteriores no estaban diseñadas para verse desde fuera del entorno.
+Camera placements are approximate inspection viewpoints. Materials, lighting, and effects may differ from the original experience. Preview renders used copies with textures limited to a maximum dimension of 512 pixels; this preview reduction does not modify the distributed GLB files. Some exterior faces were never intended to be viewed from outside the environment.
 
-## Contenido y organización
+## Contents and organization
 
-Este paquete de documentación incluye el README, las cuatro láminas renderizadas y el catálogo en CSV y JSON. **Los modelos y las escenas fuente se descargan por separado**; los archivos binarios no están incluidos en el paquete de documentación.
+This documentation package includes the README, four rendered contact sheets, and the catalog in CSV and JSON formats. **Models and source scenes are separate downloads**; their binaries are not included in this documentation package.
 
-| Ruta propuesta | Contenido |
+| Suggested path | Contents |
 |---|---|
-| `README.md` | Presentación, galería e instrucciones |
-| `docs/images/` | Cuatro láminas con 44 vistas |
-| `catalog/catalog_and_metrics.csv` | Tabla de métricas para análisis |
-| `catalog/catalog_and_metrics.json` | Métricas, hashes y reportes de extracción |
-| `models/<id>.glb` | Modelo estático individual, añadido por separado |
-| `sources/<id>_source_scene.zip` | Escena fuente individual, añadida por separado |
+| `README.md` | Overview, gallery, and instructions |
+| `docs/images/` | Four contact sheets containing 44 views |
+| `catalog/catalog_and_metrics.csv` | Metrics table for analysis |
+| `catalog/catalog_and_metrics.json` | Metrics, hashes, and extraction reports |
+| `models/<id>.glb` | Individual static model, added separately |
+| `sources/<id>_source_scene.zip` | Individual source scene archive, added separately |
 
-Los nombres `<id>` se indican en la tabla siguiente. El repositorio puede alojar la documentación y enlazar los binarios desde su sección de descargas; los enlaces de distribución deben añadirse cuando esos archivos estén publicados. Este README no presupone que los binarios ya estén disponibles en el repositorio.
+The `<id>` values are listed below. The repository can host documentation and link to binaries from its downloads section. Add distribution links once the files are published; this README does not assume those binaries are already available in the repository.
 
-## Entornos y métricas
+## Environments and metrics
 
-La extracción registrada suma **9.249.150 triángulos** y **5.689.359 vértices**. Los recuentos corresponden a las instancias de geometría exportadas; no son una medición de draw calls ni de rendimiento en el visor.
+The recorded export contains **9,249,150 triangles** and **5,689,359 vertices**. Counts refer to exported geometry instances; they are not measurements of draw calls or headset performance. File sizes below use decimal megabytes.
 
-| Home | Identificador | Triángulos | GLB (MB) |
+| Home | Identifier | Triangles | GLB (MB) |
 |---|---|---:|---:|
 | Abstraction | `abstraction` | 100,552 | 36.5 |
 | Blue Hill Gold Mine | `blue-hill-gold-mine` | 675,264 | 344.1 |
@@ -72,68 +74,68 @@ La extracción registrada suma **9.249.150 triángulos** y **5.689.359 vértices
 | Studio | `studio` | 420,067 | 241.9 |
 | Winter Lodge | `winter-lodge` | 315,596 | 110.4 |
 
-Consulta el [catálogo CSV](catalog/catalog_and_metrics.csv) o el [catálogo JSON](catalog/catalog_and_metrics.json) para los hashes SHA-256, nombres de paquetes, límites espaciales y reportes de carga.
+See the [CSV catalog](catalog/catalog_and_metrics.csv) or [JSON catalog](catalog/catalog_and_metrics.json) for SHA-256 hashes, package names, spatial bounds, and load reports.
 
-## Abrir un modelo
+## Opening a model
 
 ### Blender
 
-1. Descarga el archivo `<id>.glb` del entorno que quieras explorar.
-2. Impórtalo mediante **File → Import → glTF 2.0**.
-3. Inspecciona los objetos de la escena y sus materiales. Si el encuadre aparece desmesurado, selecciona la geometría principal: algunos entornos incluyen skyboxes o vértices auxiliares muy alejados.
+1. Download the `<id>.glb` file for the environment you want to explore.
+2. Import it using **File → Import → glTF 2.0**.
+3. Inspect the scene objects and materials. If the framing appears excessively large, select the main geometry: some environments contain skyboxes or distant auxiliary vertices.
 
-Los GLB contienen las texturas utilizadas por la exportación. No necesitas un visor Quest ni acceso root para abrirlos.
+The GLB files embed the textures used by the export. A Quest headset and root access are not required to open them.
 
 ### Unity
 
-Utiliza un importador compatible con glTF 2.0 y con los materiales/extensiones presentes en el archivo. Después de importar, revisa transparencias, materiales unlit y orientación de las caras.
+Use an importer compatible with glTF 2.0 and the materials/extensions present in the file. After importing, review transparency, unlit materials, and face orientation.
 
-La exportación no crea automáticamente colliders, navegación, interacciones ni animaciones funcionales. Estos componentes requieren reconstrucción dentro del proyecto.
+The export does not automatically create colliders, navigation, interactions, or working animations. These components must be reconstructed in the project.
 
-### Escena fuente
+### Source scenes
 
-El archivo `<id>_source_scene.zip` conserva la escena interna extraída del paquete. **No es un proyecto de Blender ni de Unity listo para abrir.** Sirve para consultar los recursos originales de esa escena y desarrollar conversiones adicionales.
+Each `<id>_source_scene.zip` preserves the internal scene extracted from its package. **It is not a ready-to-open Blender or Unity project.** It provides the source resources for inspection and further conversion work.
 
-Los paquetes completos de extracción también pueden contener `apk_assets`, propiedades y metadatos auxiliares. Esos recursos adicionales no deben suponerse incluidos en el ZIP individual de escena fuente.
+The complete extraction bundles may also contain `apk_assets`, properties, and auxiliary metadata. Do not assume those additional resources are included in an individual source scene ZIP.
 
-## Qué conserva la exportación
+## Preserved by the export
 
-- Colocación de la geometría con transformaciones globales aplicadas.
-- Coordenadas UV0/UV1, colores de vértice y texturas PNG utilizadas por el modelo.
-- Tintes, modos de transparencia y marcas de doble cara cuando fueron interpretados por el extractor.
-- Trazabilidad del paquete y de la escena mediante hashes y reportes del catálogo.
+- Geometry placement with world transforms baked into the export.
+- UV0/UV1 coordinates, vertex colors, and the PNG textures used by the model.
+- Tints, transparency modes, and double-sided flags where interpreted by the extractor.
+- Package and scene traceability through catalog hashes and reports.
 
-## Limitaciones conocidas
+## Known limitations
 
-- **Escenas estáticas:** las animaciones no se convierten en pistas glTF reproducibles. Los recursos de animación, esqueletos, VAT y otros datos se conservan en los archivos fuente cuando existen.
-- **Materiales aproximados:** los shaders originales y su iluminación no se reproducen exactamente. La mezcla aditiva no queda representada fielmente por los materiales glTF estándar.
-- **Mapas empaquetados:** ciertas texturas normales/ORM requieren la interpretación específica del shader original.
-- **Lightmaps:** los PNG derivados de lightmaps HDR incorporan exposición y mapeo tonal; no representan radiancia HDR sin procesar.
-- **Normales:** su reconstrucción depende de la aplicación importadora.
-- **Oceanarium y Storybook:** en sus exportaciones estáticas las texturas decodificadas se limitaron a 1024 px por dimensión máxima mediante remuestreo nearest para ajustarse a la memoria disponible. Las texturas comprimidas originales permanecen en las escenas fuente.
-- **Elementos omitidos:** los reportes de carga identifican componentes clasificados como UI/gizmos u otros elementos no decodificados. Una exportación correcta no implica recuperación completa de la lógica del entorno.
-- **Comparación histórica:** las fechas y versiones de estos paquetes adaptados no deben usarse como fechas de lanzamiento de los diseños originales.
+- **Static scenes:** animations are not converted into playable glTF tracks. Animation resources, skeletons, vertex animation textures (VAT), and other data remain in the source files where present.
+- **Approximate materials:** original shaders and lighting are not reproduced exactly. Standard glTF materials do not faithfully reproduce the original additive blending behavior.
+- **Packed maps:** certain normal/ORM textures require interpretation specific to the original shader.
+- **Lightmaps:** PNG files derived from HDR lightmaps include exposure and tone mapping; they do not represent raw HDR radiance.
+- **Normals:** reconstruction depends on the importing application.
+- **Oceanarium and Storybook:** decoded textures in these static exports were limited to a maximum dimension of 1024 pixels using nearest-neighbor resampling to fit available memory. Their original compressed textures remain in the source scenes.
+- **Skipped elements:** load reports identify components classified as UI/gizmos and other undecoded elements. A successful export does not imply complete recovery of the environment's logic.
+- **Historical comparisons:** dates and versions of these adapted packages must not be treated as release dates for the original designs.
 
-## Validación y uso en investigación
+## Validation and research use
 
-Durante la extracción se comprobaron los hashes SHA-256 de los APK y las escenas internas contra el catálogo, las referencias de imágenes, los límites de buffers y accessors, los índices de triángulos y las longitudes de los GLB. El archivo agregado de los 22 modelos se recuperó posteriormente con el mismo SHA-256 y superó la comprobación CRC de sus entradas.
+During extraction, APK and internal scene SHA-256 hashes were checked against the catalog. Image references, buffer/accessor bounds, triangle indices, and GLB lengths were also checked. The combined archive of all 22 models was subsequently recovered with the same SHA-256 and passed CRC verification of its entries.
 
-Estas comprobaciones evalúan integridad y consistencia de los archivos. **No demuestran equivalencia visual o funcional con la ejecución nativa en Quest.**
+These checks assess file integrity and structural consistency. **They do not establish visual or functional equivalence with native execution on Quest.**
 
-Para un análisis reproducible, registra el identificador del Home, el hash del GLB, la versión del importador y cualquier modificación posterior. Separa las observaciones de diseño de los artefactos de conversión. Los límites espaciales del catálogo incluyen fondos y geometría auxiliar; no equivalen a superficie transitable ni a dimensiones de una habitación.
+For reproducible analysis, record the Home identifier, GLB hash, importer version, and any subsequent modifications. Distinguish design observations from conversion artifacts. Catalog bounds include backgrounds and auxiliary geometry; they are not equivalent to walkable area or room dimensions.
 
-## Procedencia técnica
+## Technical provenance
 
-- Catálogo de origen: [Quest Home Switcher — homes-v2.0.0](https://github.com/nikitat21/Quest-Home-Switcher/releases/tag/homes-v2.0.0), conjunto Root.
-- Código de referencia: [Quest Home Switcher](https://github.com/nikitat21/Quest-Home-Switcher), revisión `6e6e74dc3a55faa1d0eb3815b994ece5f9982815`.
-- Extractor de referencia: [Quest Home Editor](https://github.com/nikitat21/Quest-Home-Editor), revisión `fd95db7415fbf63032961db8df07dc5f01207831`.
-- Decodificación ASTC: [ARM astc-encoder](https://github.com/ARM-software/astc-encoder), etiqueta `4.8.0`.
-- Instantánea de extracción documentada: **4 de octubre de 2026**.
+- Source catalog: [Quest Home Switcher — homes-v2.0.0](https://github.com/nikitat21/Quest-Home-Switcher/releases/tag/homes-v2.0.0), Root collection.
+- Reference code: [Quest Home Switcher](https://github.com/nikitat21/Quest-Home-Switcher), commit `6e6e74dc3a55faa1d0eb3815b994ece5f9982815`.
+- Reference extractor: [Quest Home Editor](https://github.com/nikitat21/Quest-Home-Editor), commit `fd95db7415fbf63032961db8df07dc5f01207831`.
+- ASTC decoding: [ARM astc-encoder](https://github.com/ARM-software/astc-encoder), tag `4.8.0`.
+- Documented extraction snapshot: **October 4, 2026**.
 
-La extracción utilizó ajustes para referencias JSON numéricas representadas como cadenas, carga diferida de texturas y aplicación de transformaciones antes de exportar. El paquete independiente de herramientas contiene los scripts, el parche del extractor y las instrucciones de reproducción.
+The extraction used fixes for numeric JSON references represented as strings, deferred texture loading, and transform baking before export. The separate toolkit package contains the scripts, extractor patch, and reproduction instructions.
 
-## Atribución y derechos
+## Attribution and rights
 
-Los nombres, diseños, modelos, texturas y demás recursos de terceros mantienen sus respectivos titulares y condiciones. La inclusión en este catálogo no concede una licencia sobre los assets ni atribuye su autoría al mantenedor del repositorio. No se declara una licencia abierta global para el conjunto.
+Third-party names, designs, models, textures, and other resources retain their respective rights holders and terms. Inclusion in this catalog does not grant a license to the assets or attribute their authorship to the repository maintainer. No blanket open-source license is declared for the collection.
 
-Conserva la atribución y las licencias de las herramientas de origen. La documentación distingue el trabajo de extracción y análisis del diseño de los entornos atribuidos a Meta/Oculus.
+Retain the attribution and licenses of the upstream tools. This documentation distinguishes extraction and analysis work from the design of the environments attributed to Meta/Oculus.
